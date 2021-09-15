@@ -8,7 +8,7 @@
 ## Select
 
 * [Executando comandos de SQL básico](https://github.com/GuiGallicchio/tutorial_plsql/blob/main/select/comandos_basicos.md)
-* [Selecionando todas colunas](https://github.com/GuiGallicchio/tutorial_plsql/new/main/select)
+* [Selecionando todas colunas](https://github.com/GuiGallicchio/tutorial_plsql/blob/main/select/todas_colunas.md)
 
 ## Update
 
