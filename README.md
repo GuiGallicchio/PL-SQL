@@ -7,7 +7,7 @@
 
 ## Select
 
-* [Executando comandos de SQL básico](https://github.com/GuiGallicchio/tutorial_plsql/blob/main/selects.md)
+* [Executando comandos de SQL básico](https://github.com/GuiGallicchio/tutorial_plsql/blob/main/select/comandos_basicos.md)
 
 ## Update
 
