@@ -8,8 +8,24 @@
 ## Select
 
 * [Executando comandos de SQL básico](https://github.com/GuiGallicchio/tutorial_plsql/blob/main/select/comandos_basicos.md)
+* [Selecionando todas colunas](https://github.com/GuiGallicchio/tutorial_plsql/new/main/select)
 
 ## Update
 
 ## Delete
 
+## Insert
+
+* [Inserindo dados em uma tabela](https://github.com/GuiGallicchio/tutorial_plsql/blob/main/insert/inserindo_dados.md)
+
+## Table
+
+* [Criação de tabela](https://github.com/GuiGallicchio/tutorial_plsql/blob/main/table/create_table.md)
+
+## Trigger
+
+## Procedure
+
+## Function
+
+## Package
