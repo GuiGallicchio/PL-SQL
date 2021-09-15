@@ -1,6 +1,6 @@
 # PL/SQL: Procedural Language/Structured Query Language
 
-<a href="https://www.oracle.com/database/technologies/appdev/plsql.html"><img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" align="left" hspace="10" vspace="6" width="10"></a>
+<a href="https://www.oracle.com/database/technologies/appdev/plsql.html"><img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" align="left" hspace="10" vspace="6" width="100"></a>
 
 **PL/SQL** é.... is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML. D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
 
